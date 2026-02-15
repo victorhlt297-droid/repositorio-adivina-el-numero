@@ -2,7 +2,6 @@
 Este programa implementa un juego en Python donde el usuario piensa en un número
 entre 1 y 100, y la computadora intenta adivinarlo utilizando lógica condicional
 y estructuras repetitivas.
-<img width="975" height="1019" alt="image" src="https://github.com/user-attachments/assets/054337c0-7140-4f50-9eea-86302caf9e5f" />
 
 
 El usuario solo debe indicar si el número propuesto por la computadora es:
@@ -27,3 +26,5 @@ La computadora aplica una estrategia de búsqueda binaria:
 
 ```bash
 python adivina_numero
+<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/397ba9fe-7a0b-45f0-805a-fd007d80cab4" />
+
