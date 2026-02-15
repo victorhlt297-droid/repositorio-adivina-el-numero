@@ -18,6 +18,9 @@ La computadora aplica una estrategia de búsqueda binaria:
 3. Ajusta los límites según la respuesta del usuario
 4. Repite hasta adivinar el número
 
+<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/397ba9fe-7a0b-45f0-805a-fd007d80cab4" />
+
+
 ## Cómo ejecutar el programa
 
 1. Tener Python instalado
@@ -28,6 +31,4 @@ La computadora aplica una estrategia de búsqueda binaria:
 python adivina_numero
 
 
-
-<img width="1908" height="908" alt="image" src="https://github.com/user-attachments/assets/397ba9fe-7a0b-45f0-805a-fd007d80cab4" />
 
